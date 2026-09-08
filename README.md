@@ -387,15 +387,15 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/memovai/memov)]
       _Git-based, traceable memory layer for Claude Code._
 
-46. **[CommonGround Kernel](https://github.com/Intelligent-Internet/CommonGround)**
-      ![Star](https://img.shields.io/github/stars/Intelligent-Internet/CommonGround.svg?style=social&label=Star)
-      [[code](https://github.com/Intelligent-Internet/CommonGround)]
-      _PostgreSQL-backed shared work-record substrate for human-agent and multi-agent systems, with durable handoff facts, causal lineage, and pull-first recovery across runtimes._
-
-47. **[Belief Context Graph](https://bigai-nlco.github.io/belief-context-graph/)**
+46. **[Belief Context Graph](https://bigai-nlco.github.io/belief-context-graph/)**
       ![Star](https://img.shields.io/github/stars/bigai-nlco/belief-context-graph.svg?style=social&label=Star)
       [[code](https://github.com/bigai-nlco/belief-context-graph)]
       _Confidence-aware belief graph organizing long-horizon agent context into trackable, updatable belief states; includes SDK, graph-building tools, visualization UI, and agent benchmark._
+
+47. **[CommonGround Kernel](https://github.com/Intelligent-Internet/CommonGround)**
+      ![Star](https://img.shields.io/github/stars/Intelligent-Internet/CommonGround.svg?style=social&label=Star)
+      [[code](https://github.com/Intelligent-Internet/CommonGround)]
+      _PostgreSQL-backed shared work-record substrate for human-agent and multi-agent systems, with durable handoff facts, causal lineage, and pull-first recovery across runtimes._
 
 <details>
 

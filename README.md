@@ -739,6 +739,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[blog](https://oranoai.com/blog/personal-mcp-context-ai-agents.html)]
    _Consumer app that distills saved Reels, videos, articles, and PDFs into projects and memory facts that the user's agent reads over a read-only MCP server._
 
+-  [Wontopos (Tablet 2)](https://wontopos.com/)
+   [[paper](https://arxiv.org/abs/2608.23920)]
+   [[eval](https://github.com/wontopos/beam1m-tablet-2)]
+   _Memory API with no language model in the retrieval path; paper-reported 95.7% LongMemEval-S, 95.2% recall@5 over 70 language pairs, and BEAM-1M 67.5% with published harness._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._

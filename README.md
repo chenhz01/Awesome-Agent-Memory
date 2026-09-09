@@ -1457,6 +1457,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems](https://arxiv.org/abs/2609.02750)**
+    [[code](https://github.com/YihangChen9/Bilevel-Coordinated-Reflection)]
+
 - **[Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search](https://arxiv.org/abs/2608.15669)**
     [[code](https://github.com/yzailab/Large-Discovery-Models)]
     [[proj](https://largediscovery.net/)]

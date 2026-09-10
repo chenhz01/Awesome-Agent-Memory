@@ -665,6 +665,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[eval](https://rcll.ai/docs/benchmarks/)]
       _Self-hosted shared memory for a fleet of agents: topic rooms, L0–L3 depth, Postgres/pgvector; the read path invokes no language model. Fork of Hindsight._
 
+97. **[agent-memory-doctor](https://github.com/chenhz01/agent-memory-doctor)**
+      ![Star](https://img.shields.io/github/stars/chenhz01/agent-memory-doctor.svg?style=social&label=Star)
+      [[code](https://github.com/chenhz01/agent-memory-doctor)]
+      [[docs](https://github.com/chenhz01/agent-memory-doctor/blob/main/README.md)]
+      _Boot-time and CI integrity checker for agent memory and convention files: fingerprint/tamper detection, freshness decay, encoding corruption (mojibake), regex-marker rot, and re-archive verification; zero dependencies, ships as CLI, PyPI package, and GitHub Action._
+
 </details>
 
 ### Closed-Source

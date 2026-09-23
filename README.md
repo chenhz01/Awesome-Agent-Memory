@@ -1,3 +1,24 @@
+# Awesome-Agent-Memory
+
+> **The curated map of AI agent memory: papers, frameworks, benchmarks — one table**
+
+LLM/Agent 记忆全景清单：长期记忆/检索/推理/记忆原生系统设计（合并 Awesome-AI-Memory）
+
+## Install (one line)
+```bash
+git clone https://github.com/chenhz01/Awesome-Agent-Memory
+```
+
+## Why not X?
+| | 本清单 | 分散搜索 |
+|---|---|---|
+| 覆盖 | 论文+框架+基准一张表 | 碎片化 |
+| 维护 | 持续更新 | 无 |
+
+Topics: `awesome-list` · `agent-memory` · `llm` · `memory` · `survey`
+
+---
+
 <a name="readme-top"></a>
 
 <h1 align="center">🧠 Awesome Agent Memory</h1>
